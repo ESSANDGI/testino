@@ -1,1 +1,0 @@
-console.log("Ciao mondo 2!");
