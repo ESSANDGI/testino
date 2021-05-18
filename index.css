@@ -1,5 +1,23 @@
-@media only screen and (max-width: 1690px) { 
-    h1{
-        background-color: chartreuse;
-    }
+body{
+    width: 100%;
+}
+/* tutto quello che è sopra questa riga dovrà essere globale*/
+header{
+    background-color:rgb(76, 230, 38);
+    height: 100px;
+}
+
+nav{
+    background-color: rgba(21, 87, 30, 0.767);
+    height: 100px;
+}
+
+.main{
+    background-color: rgb(37, 158, 33);
+    height: 100px;
+}
+
+footer{
+    background-color: rgb(130, 226, 167);
+    height: 100px;
 }

@@ -1,5 +1,23 @@
 @media  only screen and (max-width: 980px) {
-    h1{
-        background-color: brown;
+
+    header{
+        background-color: chocolate;
+        height: 100px;
     }
+
+    nav{
+        background-color: darkred;
+        height: 100px;
+    }
+
+    .main{
+        background-color: darksalmon;
+        height: 100px;
+    }
+
+    footer{
+        background-color: deeppink;
+        height: 100px;
+    }
+
 }
